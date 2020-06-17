@@ -1,0 +1,9 @@
+
+
+0 12 * * * /Users/xiaojing/anaconda3/bin/python /Users/xiaojing/Documents/Jingxiao/RealTimeBigData_3Tasks/Task1/Flight_Daily.py
+
+0 8,12,18,23 * * * /Users/xiaojing/anaconda3/bin/python /Users/xiaojing/Documents/Jingxiao/RealTimeBigData_3Tasks/Task2/Uber_trip.py
+
+0 20 * * * /Users/xiaojing/anaconda3/bin/python /Users/xiaojing/Documents/Jingxiao/RealTimeBigData_3Tasks/Task3/Mask.py
+
+0 19 * * * /Users/xiaojing/anaconda3/bin/python /Users/xiaojing/Documents/Jingxiao/RealTimeBigData_3Tasks/Task3/currency.py
