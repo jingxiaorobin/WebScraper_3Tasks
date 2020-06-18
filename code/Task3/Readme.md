@@ -1,10 +1,10 @@
 # Masks Sold by Etsy
 The project goal is to estimate daily sales data face mask from Etsy. The code automatically extract via
-> Mask.py
+> Mask.py;
     currency.py
 
 export daily sale data to
-> 2020-06-xx.csv]
+> 2020-06-xx.csv;
     currency.csv
     
 Aggregated dataset:
