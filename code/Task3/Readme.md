@@ -18,8 +18,8 @@ Aggregated dataset:
 4. Calculate weighted average price for each shop
 5. Calculate daily product sale by Day2 historical sale deducting Day1 historical sale
 6. Function:
+![image](https://github.com/jingxiaorobin/WebScraper_3Tasks/blob/master/code/Task3/CodeCogsEqn.gif)
 
-$Revenue_{day2} = \sum \bar{p} \, \cdot \, (q_{day2} \, -\, q_{day1})\, \cdot \, currency \, rate\, \$ $
 
 ### Preliminary data process and data aggregation
 > Etsy_mask.ipynb
